@@ -21,7 +21,7 @@
 
 # Установка (пошагово)
 
-## [Скачать архив с модом](https://github.com/nullator/Among-Us-Notepad/releases/download/AmongUsNotepad_v_0.9/AUNotepad-v0.9.zip)
+**[Скачать архив с модом](https://github.com/nullator/Among-Us-Notepad/releases/download/AmongUsNotepad_v_0.9/AUNotepad-v0.9.zip)**
 
 ## 0) Если ранее вы уже устанавливали другие моды с BepInEx
 Пункты 1 и 2 можно пропустить. Возможно, потребуется обновить BepInEx, если мод не запустится.
