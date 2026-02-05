@@ -45,14 +45,9 @@
    - файл `Notepad.dll` находится в папке `BepInEx\plugins`
    - папка `Notepad` находится в папке `BepInEx\plugins\Notepad\`
 
-Итоговая структура должна быть такой:
-```
-Among Us\
-  BepInEx\
-    plugins\
-      Notepad.dll
-      Notepad\
-```
+То есть Итоговая структура должна быть такой:
+`путь до папки с игрой\Among Us\BepInEx\plugins\Notepad.dll`
+`путь до папки с игрой\Among Us\BepInEx\plugins\Notepad\(тут необходимые для работы мода файла)`
 
 ## 4) Первый запуск мода
 1. Запустите игру.
