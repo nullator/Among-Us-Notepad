@@ -56,4 +56,4 @@
 Если вкладка браузера не открылась автоматически, откройте вручную:
 `http://localhost:33333/`
 
-![Among Us Notepad](AUnotepad.png)
+![Among Us Notepad](/AUnotepad.png)
