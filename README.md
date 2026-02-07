@@ -1,5 +1,5 @@
 # Among Us Notepad (Among Us мод) — локальный блокнот для заметок по игрокам Among Us
-Ссылка для скачивания последней версии - **[AUNotepad-v0.9.2.zip](https://github.com/nullator/Among-Us-Notepad/releases/download/AUNotepad-v.0.9.2/AUNotepad-v0.9.2.zip)** 
+Ссылка для скачивания последней версии - **[AUNotepad-v0.9.3.zip](https://github.com/nullator/Among-Us-Notepad/releases/download/AUNotepad-v.0.9.3/AUNotepad-v0.9.3.zip)** 
 
 Этот мод добавляет в Among Us интерфейс для просмотра данных об игроках, вместе с которыми вы играли в одном лобби.
 Он работает **локально на вашем компьютере** и поднимает встроенный сервер на `http://localhost:33333/`.
